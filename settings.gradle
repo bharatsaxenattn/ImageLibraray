@@ -1,0 +1,3 @@
+rootProject.name='ImageLibrary'
+include ':app'
+include ':app:logiin'
